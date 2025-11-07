@@ -52,7 +52,7 @@ function App() {
             <div className="absolute -top-2 -right-2 w-8 h-8 bg-yellow-400 rounded-full animate-pulse shadow-lg"></div>
           </div>
           <h1 className="text-5xl font-bold text-white mb-6 christmas-text">
-            harys
+            - HARYs -
           </h1>
 
           <div className="bg-white bg-opacity-10 backdrop-blur-md rounded-2xl p-6 border border-white border-opacity-20 mb-8 text-left">
@@ -90,7 +90,7 @@ function App() {
         </div>
 
         <footer className="mt-12 text-center text-white text-sm opacity-80 animate-fadeIn">
-          <p>✨ Season's Greetings ✨</p>
+          <p>Made with ❤︎ by <a href="https://harys.is-a.dev/" target="_blank">harys722</a></p>
         </footer>
       </div>
     </div>
